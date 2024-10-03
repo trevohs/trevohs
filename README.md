@@ -1,7 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
+
 
 <h1 align="center">Hi 👋, I'm Trevor</h1>
 <h3 align="center">Adapting quickly to dynamic environments, I bring a diverse skillset in cloud, information security, and data analytics, with the ability to code when needed—delivering innovative solutions to complex challenges.</h3>
+
+<img width="100%" height="400px" src="https://img.freepik.com/premium-photo/closeup-sleek-monitor-displaying-vibrant-visuals_1007506-22875.jpg">
+
 
 - 🌱 I’m currently learning **AWS Cloud Practitioner**
 
